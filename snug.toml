@@ -1,0 +1,14 @@
+name = "Snug"
+author = "mainstream"
+link = ""
+year = 2022
+
+[formats.standard]
+matrix = [
+  ["q", "l", "d", "m", "b", "y", "f", "o", "u", "'"],
+  ["s", "r", "t", "c", "g", "p", "n", "e", "i", "a"],
+  ["z", "x", "k", "w", "v", "j", "h", "/", ",", "."],
+]
+
+map = {}
+home_row = 1
