@@ -1,0 +1,12 @@
+name = "Lumin"
+author = "Roman Koshchei"
+link = "roman-koshchei.github.io/lumin/"
+year = 2022
+
+[formats.standard]
+matrix = [["y", "l", "u", "o", "'", "g", "p", "m", "h", "v"],
+["i", "r", "e", "a", ".", "d", "c", "t", "n", "s", "z"],
+["/", "j", ",", "q", ";", "w", "f", "k", "b", "x"]]
+
+map = {}
+home_row = 1
