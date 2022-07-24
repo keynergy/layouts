@@ -1,0 +1,12 @@
+name = "Romak"
+author = "Rafael Romão"
+link = "https://github.com/rafaelromao/keyboards/blob/main/docs/romak.md"
+year = 2022
+
+[formats.standard]
+matrix = [[" ", "q", "u", "f", "z", "k", "l", "o", "v", " "],
+["p", "s", "e", "d", "g", "h", "n", "a", "r", "c"],
+["b", "y", "i", "t", "x", "j", "m", ",", ".", "w"]]
+
+map = {}
+home_row = 1
